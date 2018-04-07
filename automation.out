@@ -1,0 +1,223 @@
+2018-03-26 12:30:08 INFO  TestBaby:94 - loading config.properties
+2018-03-26 12:30:08 INFO  TestBaby:99 - loading or.properties
+2018-03-26 12:30:26 INFO  TestBaby:94 - loading config.properties
+2018-03-26 12:30:26 INFO  TestBaby:99 - loading or.properties
+2018-03-26 12:53:03 INFO  TestBaby:96 - loading config.properties
+2018-03-26 12:53:03 INFO  TestBaby:101 - loading or.properties
+2018-03-26 12:53:17 INFO  LoginTest2:22 - company.sameer.fbTests.LoginTest2 started
+2018-03-26 12:57:09 INFO  TestBaby:96 - loading config.properties
+2018-03-26 12:57:09 INFO  TestBaby:101 - loading or.properties
+2018-03-26 13:01:52 INFO  TestBaby:96 - loading config.properties
+2018-03-26 13:01:52 INFO  TestBaby:101 - loading or.properties
+2018-03-26 13:02:01 INFO  WaitHelper:32 - 20
+2018-03-26 13:02:01 INFO  WaitHelper:37 - 240
+2018-03-26 13:02:03 INFO  LoginTest2:22 - company.sameer.fbTests.LoginTest2 started
+2018-03-26 13:02:15 INFO  WaitHelper:61 - element found...
+2018-03-26 13:02:15 INFO  FaceLogin:36 - Entering name
+2018-03-26 13:04:37 INFO  TestBaby:96 - loading config.properties
+2018-03-26 13:04:37 INFO  TestBaby:101 - loading or.properties
+2018-03-26 13:04:42 INFO  WaitHelper:32 - 20
+2018-03-26 13:04:42 INFO  WaitHelper:37 - 240
+2018-03-26 13:05:58 INFO  TestBaby:96 - loading config.properties
+2018-03-26 13:05:58 INFO  TestBaby:101 - loading or.properties
+2018-03-26 13:06:05 INFO  WaitHelper:32 - 20
+2018-03-26 13:06:05 INFO  WaitHelper:37 - 240
+2018-03-26 13:06:08 INFO  LoginTest2:22 - company.sameer.fbTests.LoginTest2 started
+2018-03-26 13:06:25 INFO  WaitHelper:61 - element found...
+2018-03-26 13:07:32 INFO  FaceLogin:36 - Entering name
+2018-03-26 13:13:36 INFO  TestBaby:96 - loading config.properties
+2018-03-26 13:13:36 INFO  TestBaby:101 - loading or.properties
+2018-03-26 13:13:43 INFO  WaitHelper:32 - 20
+2018-03-26 13:13:43 INFO  WaitHelper:37 - 240
+2018-03-26 13:13:47 INFO  LoginTest2:22 - company.sameer.fbTests.LoginTest2 started
+2018-03-26 13:13:59 INFO  WaitHelper:61 - element found...
+2018-03-26 13:13:59 INFO  FaceLogin:36 - Entering name
+2018-03-26 13:15:09 INFO  TestBaby:96 - loading config.properties
+2018-03-26 13:15:09 INFO  TestBaby:101 - loading or.properties
+2018-03-26 13:15:17 INFO  WaitHelper:32 - 20
+2018-03-26 13:15:17 INFO  WaitHelper:37 - 240
+2018-03-26 13:15:21 INFO  LoginTest2:22 - company.sameer.fbTests.LoginTest2 started
+2018-03-26 13:15:35 INFO  WaitHelper:61 - element found...
+2018-03-26 13:15:35 INFO  FaceLogin:36 - Entering name
+2018-03-26 13:20:16 INFO  TestBaby:96 - loading config.properties
+2018-03-26 13:20:16 INFO  TestBaby:101 - loading or.properties
+2018-03-26 13:20:24 INFO  WaitHelper:32 - 20
+2018-03-26 13:20:24 INFO  WaitHelper:37 - 240
+2018-03-26 13:20:24 INFO  LoginTest2:22 - company.sameer.fbTests.LoginTest2 started
+2018-03-26 13:20:32 INFO  WaitHelper:61 - element found...
+2018-03-26 13:20:32 INFO  FaceLogin:37 - Entering name
+2018-03-26 13:38:54 INFO  TestBaby:96 - loading config.properties
+2018-03-26 13:38:54 INFO  TestBaby:101 - loading or.properties
+2018-03-26 13:39:02 INFO  WaitHelper:32 - 20
+2018-03-26 13:39:02 INFO  WaitHelper:37 - 240
+2018-03-26 13:43:17 INFO  TestBaby:96 - loading config.properties
+2018-03-26 13:43:17 INFO  TestBaby:101 - loading or.properties
+2018-03-26 13:43:22 INFO  WaitHelper:32 - 20
+2018-03-26 13:43:22 INFO  WaitHelper:37 - 240
+2018-03-26 13:43:25 INFO  TestBaby:96 - loading config.properties
+2018-03-26 13:43:25 INFO  TestBaby:101 - loading or.properties
+2018-03-26 13:43:27 INFO  WaitHelper:32 - 20
+2018-03-26 13:43:28 INFO  WaitHelper:37 - 240
+2018-03-26 13:54:02 INFO  TestBaby:96 - loading config.properties
+2018-03-26 13:54:02 INFO  TestBaby:101 - loading or.properties
+2018-03-26 13:54:11 INFO  WaitHelper:32 - 20
+2018-03-26 13:54:11 INFO  WaitHelper:37 - 240
+2018-03-26 13:54:11 INFO  LoginTest2:22 - company.sameer.fbTests.LoginTest2 started
+2018-03-26 13:54:32 INFO  WaitHelper:61 - element found...
+2018-03-26 13:54:32 INFO  FaceLogin:37 - Entering name
+2018-03-26 13:54:32 INFO  FaceLogin:47 - Entering pass
+2018-03-26 13:54:32 INFO  FaceLogin:69 - Entering firstName
+2018-03-26 13:54:33 INFO  FaceLogin:78 - Entering surNAME
+2018-03-26 13:54:33 INFO  FaceLogin:87 - Entering mobOeemail
+2018-03-26 13:54:34 INFO  FaceLogin:122 - Entering new pass
+2018-03-26 13:54:35 INFO  FaceLogin:144 - click on Mr
+2018-03-26 13:54:43 INFO  FaceLogin:156 - Selecting day12
+2018-03-26 13:54:44 INFO  FaceLogin:178 - Selecting month  Aug
+2018-03-26 13:54:45 INFO  DropDownHelper:49 - Locator : [[ChromeDriver: chrome on XP (16d8a6aa542d204ad11da733201c23bf)] -> xpath: //*[@id='month']] Value : Aug
+2018-03-26 13:54:45 INFO  FaceLogin:183 - Selected month  Aug
+2018-03-26 13:54:46 INFO  DropDownHelper:59 - Month
+2018-03-26 13:54:46 INFO  DropDownHelper:59 - Jan
+2018-03-26 13:54:46 INFO  DropDownHelper:59 - Feb
+2018-03-26 13:54:47 INFO  DropDownHelper:59 - Mar
+2018-03-26 13:54:47 INFO  DropDownHelper:59 - Apr
+2018-03-26 13:54:47 INFO  DropDownHelper:59 - May
+2018-03-26 13:54:47 INFO  DropDownHelper:59 - Jun
+2018-03-26 13:54:47 INFO  DropDownHelper:59 - Jul
+2018-03-26 13:54:47 INFO  DropDownHelper:59 - Aug
+2018-03-26 13:54:47 INFO  DropDownHelper:59 - Sept
+2018-03-26 13:54:47 INFO  DropDownHelper:59 - Oct
+2018-03-26 13:54:47 INFO  DropDownHelper:59 - Nov
+2018-03-26 13:54:48 INFO  DropDownHelper:59 - Dec
+2018-03-26 13:54:48 INFO  FaceLogin:107 - BYS AND ALL  0
+2018-03-26 13:57:46 INFO  TestBaby:96 - loading config.properties
+2018-03-26 13:57:46 INFO  TestBaby:101 - loading or.properties
+2018-03-26 13:57:53 INFO  WaitHelper:32 - 20
+2018-03-26 13:57:53 INFO  WaitHelper:37 - 240
+2018-03-26 13:57:53 INFO  LoginTest2:22 - company.sameer.fbTests.LoginTest2 started
+2018-03-26 13:58:08 INFO  WaitHelper:61 - element found...
+2018-03-26 13:58:08 INFO  FaceLogin:37 - Entering name
+2018-03-26 13:58:09 INFO  FaceLogin:47 - Entering pass
+2018-03-26 13:58:09 INFO  FaceLogin:69 - Entering firstName
+2018-03-26 13:58:09 INFO  FaceLogin:78 - Entering surNAME
+2018-03-26 13:58:09 INFO  FaceLogin:87 - Entering mobOeemail
+2018-03-26 13:58:10 INFO  FaceLogin:122 - Entering new pass
+2018-03-26 13:58:10 INFO  FaceLogin:144 - click on Mr
+2018-03-26 13:58:22 INFO  FaceLogin:156 - Selecting day12
+2018-03-26 13:58:23 INFO  FaceLogin:178 - Selecting month  Aug
+2018-03-26 13:58:24 INFO  DropDownHelper:49 - Locator : [[ChromeDriver: chrome on XP (36613c8df961ce20f6dc3fefe9ba208d)] -> xpath: //*[@id='month']] Value : Aug
+2018-03-26 13:58:24 INFO  FaceLogin:183 - Selected month  Aug
+2018-03-26 13:58:24 INFO  DropDownHelper:59 - Month
+2018-03-26 13:58:24 INFO  DropDownHelper:59 - Jan
+2018-03-26 13:58:24 INFO  DropDownHelper:59 - Feb
+2018-03-26 13:58:24 INFO  DropDownHelper:59 - Mar
+2018-03-26 13:58:24 INFO  DropDownHelper:59 - Apr
+2018-03-26 13:58:24 INFO  DropDownHelper:59 - May
+2018-03-26 13:58:24 INFO  DropDownHelper:59 - Jun
+2018-03-26 13:58:24 INFO  DropDownHelper:59 - Jul
+2018-03-26 13:58:25 INFO  DropDownHelper:59 - Aug
+2018-03-26 13:58:25 INFO  DropDownHelper:59 - Sept
+2018-03-26 13:58:25 INFO  DropDownHelper:59 - Oct
+2018-03-26 13:58:25 INFO  DropDownHelper:59 - Nov
+2018-03-26 13:58:25 INFO  DropDownHelper:59 - Dec
+2018-03-26 13:58:25 INFO  FaceLogin:107 - BYS AND ALL  0
+2018-03-26 13:59:31 INFO  FaceLogin:111 - BYS AND ALL 1 1
+2018-03-26 14:08:09 INFO  TestBaby:97 - loading config.properties
+2018-03-26 14:08:09 INFO  TestBaby:102 - loading or.properties
+2018-03-26 14:08:20 INFO  WaitHelper:32 - 20
+2018-03-26 14:08:20 INFO  WaitHelper:37 - 240
+2018-03-26 14:08:21 INFO  LoginTest2:22 - company.sameer.fbTests.LoginTest2 started
+2018-03-26 14:08:39 INFO  WaitHelper:61 - element found...
+2018-03-26 14:08:39 INFO  FaceLogin:39 - Entering name
+2018-03-26 14:08:39 INFO  FaceLogin:50 - Entering pass
+2018-03-26 14:08:39 INFO  FaceLogin:72 - Entering firstName
+2018-03-26 14:08:39 INFO  JavaScriptHelper:32 - arguments[0].style.border='4px solid yellow'
+2018-03-26 14:08:42 INFO  JavaScriptHelper:32 - arguments[0].style.border=''
+2018-03-26 14:08:43 INFO  FaceLogin:87 - Entering surNAME
+2018-03-26 14:08:43 INFO  FaceLogin:96 - Entering mobOeemail
+2018-03-26 14:08:45 INFO  FaceLogin:131 - Entering new pass
+2018-03-26 14:08:45 INFO  FaceLogin:153 - click on Mr
+2018-03-26 14:11:41 INFO  TestBaby:97 - loading config.properties
+2018-03-26 14:11:41 INFO  TestBaby:102 - loading or.properties
+2018-03-26 14:12:03 INFO  WaitHelper:32 - 20
+2018-03-26 14:12:04 INFO  WaitHelper:37 - 240
+2018-03-26 14:12:05 INFO  LoginTest2:22 - company.sameer.fbTests.LoginTest2 started
+2018-03-26 14:12:17 INFO  WaitHelper:61 - element found...
+2018-03-26 14:12:17 INFO  FaceLogin:39 - Entering name
+2018-03-26 14:12:17 INFO  JavaScriptHelper:32 - arguments[0].style.border='4px solid yellow'
+2018-03-26 14:12:20 INFO  JavaScriptHelper:32 - arguments[0].style.border=''
+2018-03-26 14:12:20 INFO  FaceLogin:56 - Entering pass
+2018-03-26 14:12:20 INFO  FaceLogin:78 - Entering firstName
+2018-03-26 14:12:20 INFO  JavaScriptHelper:32 - arguments[0].style.border='4px solid yellow'
+2018-03-26 14:12:23 INFO  JavaScriptHelper:32 - arguments[0].style.border=''
+2018-03-26 14:12:24 INFO  FaceLogin:93 - Entering surNAME
+2018-03-26 14:12:24 INFO  FaceLogin:102 - Entering mobOeemail
+2018-03-26 14:12:25 INFO  FaceLogin:137 - Entering new pass
+2018-03-26 14:12:25 INFO  FaceLogin:159 - click on Mr
+2018-03-26 14:12:32 INFO  FaceLogin:171 - Selecting day12
+2018-03-26 14:12:33 INFO  FaceLogin:193 - Selecting month  Aug
+2018-03-26 14:12:34 INFO  DropDownHelper:49 - Locator : [[ChromeDriver: chrome on XP (9350321abb5e21fadad4cbe7f2bdd685)] -> xpath: //*[@id='month']] Value : Aug
+2018-03-26 14:12:34 INFO  FaceLogin:198 - Selected month  Aug
+2018-03-26 14:12:34 INFO  DropDownHelper:59 - Month
+2018-03-26 14:12:34 INFO  DropDownHelper:59 - Jan
+2018-03-26 14:12:34 INFO  DropDownHelper:59 - Feb
+2018-03-26 14:12:34 INFO  DropDownHelper:59 - Mar
+2018-03-26 14:12:35 INFO  DropDownHelper:59 - Apr
+2018-03-26 14:12:35 INFO  DropDownHelper:59 - May
+2018-03-26 14:12:35 INFO  DropDownHelper:59 - Jun
+2018-03-26 14:12:35 INFO  DropDownHelper:59 - Jul
+2018-03-26 14:12:35 INFO  DropDownHelper:59 - Aug
+2018-03-26 14:12:35 INFO  DropDownHelper:59 - Sept
+2018-03-26 14:12:35 INFO  DropDownHelper:59 - Oct
+2018-03-26 14:12:35 INFO  DropDownHelper:59 - Nov
+2018-03-26 14:12:36 INFO  DropDownHelper:59 - Dec
+2018-03-26 14:14:11 INFO  TestBaby:97 - loading config.properties
+2018-03-26 14:14:11 INFO  TestBaby:102 - loading or.properties
+2018-03-26 14:14:22 INFO  WaitHelper:32 - 20
+2018-03-26 14:14:22 INFO  WaitHelper:37 - 240
+2018-03-26 14:14:23 INFO  LoginTest2:22 - company.sameer.fbTests.LoginTest2 started
+2018-03-26 14:14:51 INFO  WaitHelper:61 - element found...
+2018-03-26 14:14:51 INFO  FaceLogin:39 - Entering name
+2018-03-26 14:14:51 INFO  JavaScriptHelper:32 - arguments[0].style.border='4px solid yellow'
+2018-03-26 14:14:54 INFO  JavaScriptHelper:32 - arguments[0].style.border=''
+2018-03-26 14:14:55 INFO  FaceLogin:56 - Entering pass
+2018-03-26 14:14:55 INFO  FaceLogin:78 - Entering firstName
+2018-03-26 14:14:55 INFO  JavaScriptHelper:32 - arguments[0].style.border='4px solid yellow'
+2018-03-26 14:14:58 INFO  JavaScriptHelper:32 - arguments[0].style.border=''
+2018-03-26 14:14:59 INFO  FaceLogin:93 - Entering surNAME
+2018-03-26 14:14:59 INFO  FaceLogin:102 - Entering mobOeemail
+2018-03-26 14:15:00 INFO  FaceLogin:137 - Entering new pass
+2018-03-26 14:15:01 INFO  FaceLogin:159 - click on Mr
+2018-03-26 14:15:09 INFO  FaceLogin:171 - Selecting day12
+2018-03-26 14:15:10 INFO  FaceLogin:193 - Selecting month  Aug
+2018-03-26 14:15:11 INFO  DropDownHelper:49 - Locator : [[ChromeDriver: chrome on XP (04cad019b81baf5482731f7c7dd4e4e7)] -> xpath: //*[@id='month']] Value : Aug
+2018-03-26 14:15:11 INFO  FaceLogin:198 - Selected month  Aug
+2018-03-26 14:15:11 INFO  DropDownHelper:59 - Month
+2018-03-26 14:15:11 INFO  DropDownHelper:59 - Jan
+2018-03-26 14:15:11 INFO  DropDownHelper:59 - Feb
+2018-03-26 14:15:12 INFO  DropDownHelper:59 - Mar
+2018-03-26 14:15:12 INFO  DropDownHelper:59 - Apr
+2018-03-26 14:15:12 INFO  DropDownHelper:59 - May
+2018-03-26 14:15:12 INFO  DropDownHelper:59 - Jun
+2018-03-26 14:15:12 INFO  DropDownHelper:59 - Jul
+2018-03-26 14:15:12 INFO  DropDownHelper:59 - Aug
+2018-03-26 14:15:12 INFO  DropDownHelper:59 - Sept
+2018-03-26 14:15:12 INFO  DropDownHelper:59 - Oct
+2018-03-26 14:15:13 INFO  DropDownHelper:59 - Nov
+2018-03-26 14:15:13 INFO  DropDownHelper:59 - Dec
+2018-03-26 14:18:11 INFO  TestBaby:97 - loading config.properties
+2018-03-26 14:18:11 INFO  TestBaby:102 - loading or.properties
+2018-03-26 14:18:20 INFO  WaitHelper:32 - 20
+2018-03-26 14:18:21 INFO  WaitHelper:37 - 240
+2018-03-26 14:18:21 INFO  LoginTest2:22 - company.sameer.fbTests.LoginTest2 started
+2018-03-26 14:18:40 INFO  WaitHelper:61 - element found...
+2018-03-26 14:18:40 INFO  FaceLogin:39 - Entering name
+2018-03-26 14:18:40 INFO  JavaScriptHelper:32 - arguments[0].style.border='4px solid yellow'
+2018-03-26 14:18:43 INFO  JavaScriptHelper:32 - arguments[0].style.border=''
+2018-03-26 14:18:44 INFO  FaceLogin:56 - Entering pass
+2018-03-26 14:18:44 INFO  FaceLogin:78 - Entering firstName
+2018-03-26 14:18:44 INFO  JavaScriptHelper:32 - arguments[0].style.border='4px solid yellow'
+2018-03-26 14:18:47 INFO  JavaScriptHelper:32 - arguments[0].style.border=''
+2018-03-26 14:18:48 INFO  FaceLogin:93 - Entering surNAME
+2018-03-26 14:18:48 INFO  FaceLogin:102 - Entering mobOeemail
+2018-03-26 14:18:49 INFO  FaceLogin:137 - Entering new pass
+2018-03-26 14:18:50 INFO  FaceLogin:159 - click on Mr

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="vaio-VAIO" name="company.sameer.fbTests.Testa" tests="3" failures="0" timestamp="26 Mar 2018 08:13:25 GMT" time="8.119" errors="0">
+  <testcase name="a1" time="0.032" classname="company.sameer.fbTests.Testa"/>
+  <testcase name="a2" time="0.004" classname="company.sameer.fbTests.Testa2"/>
+  <testcase name="a3" time="0.003" classname="company.sameer.fbTests.Testa3"/>
+</testsuite>
