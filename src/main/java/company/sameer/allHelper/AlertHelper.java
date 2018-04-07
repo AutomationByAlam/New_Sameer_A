@@ -28,6 +28,11 @@ public class AlertHelper{
 		oLog.debug("AlertHelper : " + this.driver.hashCode());
 	}
 	
+	public Alert getAlert1() {
+		oLog.debug("");
+		return driver.switchTo().alert();
+	}
+	
 	public Alert getAlert() {
 		oLog.debug("");
 		return driver.switchTo().alert();
