@@ -13,6 +13,11 @@ import org.openqa.selenium.WebDriver;
  */
 public class AlertHelper{
 	
+	/////
+	//////////
+	///////////
+	/////////////////////
+	
 	private WebDriver driver;
 	private Logger oLog = LoggerHelper.getLogger(AlertHelper.class);
 	
