@@ -16,6 +16,8 @@ public class AlertHelper{
 	/////
 	//////////
 	///////////
+	//////
+	//
 	/////////////////////
 	
 	private WebDriver driver;
@@ -30,6 +32,7 @@ public class AlertHelper{
 		oLog.debug("");
 		return driver.switchTo().alert();
 	}
+	//
 	
 	public void AcceptAlert() {
 		oLog.info("");
@@ -40,7 +43,30 @@ public class AlertHelper{
 		oLog.info("");
 		getAlert().dismiss();
 	}
-
+//
+	//
+	
+	//
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	public String getAlertText() {
 		String text = getAlert().getText();
 		oLog.info(text);
